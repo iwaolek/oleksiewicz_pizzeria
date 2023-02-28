@@ -1,0 +1,12 @@
++ 1. Napisz serwis internetowy pizzeri w języku PHP, systemia mają znajdować się 2 role, user i admin
++ 2. Podczas migracji tworzenia bazy powinno utworzyć się 1 konto administratora
++ 3. Podczas migracji powinny utworzyć się co najmniej 4 pizze z dowolnymi opisami oraz cenami
++ 4. Będziesz mógł zalogować się. Hasło ma być hashowane, szyfrowane szyfrem cezara o przesunięcie o 3 znaki
++ 5. Na stronie ma znajdować się formularz logowania który będzie przyjmował pola Login i hasło
++ 6. Na stronie ma znajdować się formularz rejestracji który będzie przyjmował login, hasło oraz email użytkownika. Email musi  być walidowany. A domyślna rola to użytkownik.
++ 7. Cała strona ma mieć kolorystyka CKZiU Jaworzno i powinna być ostylowama.
++ 8. Po zalogowaniu użytkownik powinien móc edytować swoje dane, zmianę trzeba potwierdzić wpisaniem hasła.
++ 9. Po zalogowaniu użytkownik powinien móc kupić pizze.
++ 10. Użytkownik powinien mieć historie zakupów, oraz pizze które są w przygotowaniu. (zakładki, albo tabelki)
++ 11. Administrator powinien móc "wysyłać" pizze do użytkownika, wtedy owa pizza przychodzi do zakładki historie zakupów.
++ 12. Użytkownik powinien móc wyświetlić "sume" swoich zamówień które są w historii.
